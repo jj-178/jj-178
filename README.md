@@ -1,7 +1,7 @@
 - 👋 Hi, I’m [**supakornhero178**](@supakornhero178)!
-- 👀 I’m interested in **Macintosh**.
+- 👀 I’m interested in **Macintosh and Gaming**.
 - 🌱 I’m currently learning on **how to make art on Macintosh**.
-- 💞️ I’m looking to collaborate on **Macintosh repos**.
+- 💞️ I’m looking to collaborate on **Macintosh and Gaming repos**.
 - 📫 How to reach me : **Email me : supakornhero102@gmail.com**
 
 <!---
