@@ -1,4 +1,4 @@
-\- Hi, I’m [**supakornhero178**](@supakornhero178)!<br>
+\- Hi, I’m [**supakornhero178**](https://github.com/supakornhero178/)!<br>
 \- I’m interested in **Macintosh and Gaming**.<br>
 \- I’m currently learning on **how to make art on Macintosh**.<br>
 \- I’m looking to collaborate on **Macintosh and Gaming repos**.<br>
